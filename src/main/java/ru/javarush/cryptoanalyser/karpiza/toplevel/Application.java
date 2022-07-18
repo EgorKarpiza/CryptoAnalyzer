@@ -14,7 +14,7 @@ public class Application {
 
 
     public Result run(String[] args) {
-        //encode text.txt encoded.txt 45
+
 
         String command = args[0]; //encode
         String[] parameters = Arrays.copyOfRange(args, 1, args.length); //text.txt encoded.txt 45

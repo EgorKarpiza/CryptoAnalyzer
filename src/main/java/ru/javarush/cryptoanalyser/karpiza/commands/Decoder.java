@@ -7,7 +7,6 @@ public class Decoder implements Action {
     public Result execute(String[] parameters) {
 
 
-        //TODO need dev logic decrypt
         return null;
     }
 }
